@@ -15,5 +15,4 @@ A perpetual fallback license is midway between those. A customer gets a year’s
 * [Due](https://www.dueapp.com)
 * [JetBrains](https://www.jetbrains.com) IDEs
 * [Proxyman](https://proxyman.io)
-* [Sketch](https://www.sketch.com/)
 * [TablePlus](https://tableplus.com)
