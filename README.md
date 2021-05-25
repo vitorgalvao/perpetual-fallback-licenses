@@ -11,9 +11,11 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 ### Software that uses the perpetual fallback license model
 
 * [Agenda](https://agenda.com)
+* [Curio](https://www.zengobi.com/curio/)
 * [DevUtils.app](https://devutils.app)
 * [Due](https://www.dueapp.com)
 * [JetBrains](https://www.jetbrains.com) IDEs
+* [Nova](https://nova.app)
 * [Proxyman](https://proxyman.io)
 * [Sublime Merge](https://www.sublimemerge.com/)
 * [Sublime Text](https://www.sublimetext.com/)
