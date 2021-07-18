@@ -17,6 +17,7 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 * [JetBrains](https://www.jetbrains.com) IDEs
 * [Nova](https://nova.app)
 * [Proxyman](https://proxyman.io)
+* [Ripcord](https://cancel.fm/ripcord/)
 * [Sublime Merge](https://www.sublimemerge.com/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [TablePlus](https://tableplus.com)
