@@ -18,6 +18,7 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 * [Nova](https://nova.app)
 * [Proxyman](https://proxyman.io)
 * [Ripcord](https://cancel.fm/ripcord/)
+* [Sip](https://sipapp.io/)
 * [Sublime Merge](https://www.sublimemerge.com/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [TablePlus](https://tableplus.com)
