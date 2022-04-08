@@ -22,3 +22,4 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 * [Sublime Merge](https://www.sublimemerge.com/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [TablePlus](https://tableplus.com)
+* [Zas Editor](https://www.zeditor.app)
