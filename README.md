@@ -11,6 +11,7 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 ### Software that uses the perpetual fallback license model
 
 * [Agenda](https://agenda.com)
+* [Chime](https://www.chimehq.com/)
 * [Curio](https://www.zengobi.com/curio/)
 * [DevUtils.app](https://devutils.app)
 * [Due](https://www.dueapp.com)
