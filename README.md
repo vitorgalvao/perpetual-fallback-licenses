@@ -21,6 +21,7 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 * [Proxyman](https://proxyman.io)
 * [Quokka](https://quokkajs.com)
 * [Ripcord](https://cancel.fm/ripcord/)
+* [Screen Studio](https://screen.studio)
 * [Sip](https://sipapp.io/)
 * [Sublime Merge](https://www.sublimemerge.com/)
 * [Sublime Text](https://www.sublimetext.com/)
