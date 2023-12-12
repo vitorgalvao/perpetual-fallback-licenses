@@ -19,6 +19,7 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 | <img src='./icons/DevUtils.png' width='60' alt='DevUtils icon'> | DevUtils | [devutils.app](https://devutils.app/) |
 | <img src='./icons/Due.png' width='60' alt='Due icon'> | Due | [dueapp.com](https://dueapp.com/) |
 | <img src='./icons/JetBrains.png' width='60' alt='JetBrains icon'> | JetBrains | [jetbrains.com](https://jetbrains.com/) |
+| <img src='https://avatars.githubusercontent.com/u/130589353?s=400&u=8a8f4ddcbcf1692653bbace6c0f5b0850b3d287c&v=4' width='60' alt='MindMac icon'> | MindMac | [mindmac.app](https://mindmac.app/) |
 | <img src='./icons/Nova.png' width='60' alt='Nova icon'> | Nova | [nova.app](https://nova.app/) |
 | <img src='./icons/Proxyman.png' width='60' alt='Proxyman icon'> | Proxyman | [proxyman.io](https://proxyman.io/) |
 | <img src='./icons/Quokka.png' width='60' alt='Quokka icon'> | Quokka | [quokkajs.com](https://quokkajs.com/) |
