@@ -10,22 +10,24 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 
 ### Software using the perpetual fallback license model
 
-| Icon | Name | Homepage |
-| ---- | ---- | -------- |
-| <img src='./icons/Agenda.png' width='60' alt='Agenda icon'> | Agenda | [agenda.com](https://agenda.com/) |
-| <img src='./icons/Aptakube.png' width='60' alt='Aptakube icon'> | Aptakube | [aptakube.com](https://aptakube.com/) |
-| <img src='./icons/Chime.png' width='60' alt='Chime icon'> | Chime | [chimehq.com](https://chimehq.com/) |
-| <img src='./icons/Curio.png' width='60' alt='Curio icon'> | Curio | [zengobi.com/curio](https://zengobi.com/curio/) |
-| <img src='./icons/DevUtils.png' width='60' alt='DevUtils icon'> | DevUtils | [devutils.app](https://devutils.app/) |
-| <img src='./icons/Due.png' width='60' alt='Due icon'> | Due | [dueapp.com](https://dueapp.com/) |
-| <img src='./icons/JetBrains.png' width='60' alt='JetBrains icon'> | JetBrains | [jetbrains.com](https://jetbrains.com/) |
-| <img src='./icons/Nova.png' width='60' alt='Nova icon'> | Nova | [nova.app](https://nova.app/) |
-| <img src='./icons/Proxyman.png' width='60' alt='Proxyman icon'> | Proxyman | [proxyman.io](https://proxyman.io/) |
-| <img src='./icons/Quokka.png' width='60' alt='Quokka icon'> | Quokka | [quokkajs.com](https://quokkajs.com/) |
-| <img src='./icons/Ripcord.png' width='60' alt='Ripcord icon'> | Ripcord | [cancel.fm/ripcord](https://cancel.fm/ripcord/) |
-| <img src='./icons/Screen Studio.png' width='60' alt='Screen Studio icon'> | Screen Studio | [screen.studio](https://screen.studio/) |
-| <img src='./icons/Sip.png' width='60' alt='Sip icon'> | Sip | [sipapp.io](https://sipapp.io/) |
-| <img src='./icons/Sublime Merge.png' width='60' alt='Sublime Merge icon'> | Sublime Merge | [sublimemerge.com](https://sublimemerge.com/) |
-| <img src='./icons/Sublime Text.png' width='60' alt='Sublime Text icon'> | Sublime Text | [sublimetext.com](https://sublimetext.com/) |
-| <img src='./icons/TablePlus.png' width='60' alt='TablePlus icon'> | TablePlus | [tableplus.com](https://tableplus.com/) |
-| <img src='./icons/Wallaby.png' width='60' alt='Wallaby icon'> | Wallaby | [wallabyjs.com](https://wallabyjs.com/) |
+| Icon                                                                      | Name          | Homepage                                        |
+| ------------------------------------------------------------------------- | ------------- | ----------------------------------------------- |
+| <img src='./icons/Agenda.png' width='60' alt='Agenda icon'>               | Agenda        | [agenda.com](https://agenda.com/)               |
+| <img src='./icons/Aptakube.png' width='60' alt='Aptakube icon'>           | Aptakube      | [aptakube.com](https://aptakube.com/)           |
+| <img src='./icons/Chime.png' width='60' alt='Chime icon'>                 | Chime         | [chimehq.com](https://chimehq.com/)             |
+| <img src='./icons/Curio.png' width='60' alt='Curio icon'>                 | Curio         | [zengobi.com/curio](https://zengobi.com/curio/) |
+| <img src='./icons/DevUtils.png' width='60' alt='DevUtils icon'>           | DevUtils      | [devutils.app](https://devutils.app/)           |
+| <img src='./icons/Due.png' width='60' alt='Due icon'>                     | Due           | [dueapp.com](https://dueapp.com/)               |
+| <img src='./icons/JetBrains.png' width='60' alt='JetBrains icon'>         | JetBrains     | [jetbrains.com](https://jetbrains.com/)         |
+| <img src='./icons/Nova.png' width='60' alt='Nova icon'>                   | Nova          | [nova.app](https://nova.app/)                   |
+| <img src='./icons/Proxyman.png' width='60' alt='Proxyman icon'>           | Proxyman      | [proxyman.io](https://proxyman.io/)             |
+| <img src='./icons/Quokka.png' width='60' alt='Quokka icon'>               | Quokka        | [quokkajs.com](https://quokkajs.com/)           |
+| <img src='./icons/Ripcord.png' width='60' alt='Ripcord icon'>             | Ripcord       | [cancel.fm/ripcord](https://cancel.fm/ripcord/) |
+| <img src='./icons/Screen Studio.png' width='60' alt='Screen Studio icon'> | Screen Studio | [screen.studio](https://screen.studio/)         |
+| <img src='./icons/Sip.png' width='60' alt='Sip icon'>                     | Sip           | [sipapp.io](https://sipapp.io/)                 |
+| <img src='./icons/Sublime Merge.png' width='60' alt='Sublime Merge icon'> | Sublime Merge | [sublimemerge.com](https://sublimemerge.com/)   |
+| <img src='./icons/Sublime Text.png' width='60' alt='Sublime Text icon'>   | Sublime Text  | [sublimetext.com](https://sublimetext.com/)     |
+| <img src='./icons/TablePlus.png' width='60' alt='TablePlus icon'>         | TablePlus     | [tableplus.com](https://tableplus.com/)         |
+| <img src='./icons/Wallaby.png' width='60' alt='Wallaby icon'>             | Wallaby       | [wallabyjs.com](https://wallabyjs.com/)         |
+| <img src='./icons/BoltAI.png' width='60' alt='BoltAI icon'>               | BoltAI        | [boltai.com](https://boltai.com?ref=pfl)        |
+| <img src='./icons/PDFPals.png' width='60' alt='PDF Pals icon'>            | PDF Pals      | [pdfpals.com](https://pdfpals.com?ref=pfl)      |
