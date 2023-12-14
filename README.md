@@ -14,7 +14,7 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 | ------------------------------------------------------------------------- | ------------- | ----------------------------------------------- |
 | <img src='./icons/Agenda.png' width='60' alt='Agenda icon'>               | Agenda        | [agenda.com](https://agenda.com/)               |
 | <img src='./icons/Aptakube.png' width='60' alt='Aptakube icon'>           | Aptakube      | [aptakube.com](https://aptakube.com/)           |
-| <img src='./icons/BoltAI.png' width='60' alt='BoltAI icon'>               | BoltAI        | [boltai.com](https://boltai.com?ref=pfl)        |
+| <img src='./icons/BoltAI.png' width='60' alt='BoltAI icon'>               | BoltAI        | [boltai.com](https://boltai.com/)               |
 | <img src='./icons/Chime.png' width='60' alt='Chime icon'>                 | Chime         | [chimehq.com](https://chimehq.com/)             |
 | <img src='./icons/Curio.png' width='60' alt='Curio icon'>                 | Curio         | [zengobi.com/curio](https://zengobi.com/curio/) |
 | <img src='./icons/DevUtils.png' width='60' alt='DevUtils icon'>           | DevUtils      | [devutils.app](https://devutils.app/)           |
@@ -22,7 +22,7 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 | <img src='./icons/JetBrains.png' width='60' alt='JetBrains icon'>         | JetBrains     | [jetbrains.com](https://jetbrains.com/)         |
 | <img src='./icons/MindMac.png' width='60' alt='MindMac icon'>             | MindMac       | [mindmac.app](https://mindmac.app/)             |
 | <img src='./icons/Nova.png' width='60' alt='Nova icon'>                   | Nova          | [nova.app](https://nova.app/)                   |
-| <img src='./icons/PDFPals.png' width='60' alt='PDF Pals icon'>            | PDF Pals      | [pdfpals.com](https://pdfpals.com?ref=pfl)      |
+| <img src='./icons/PDFPals.png' width='60' alt='PDF Pals icon'>            | PDF Pals      | [pdfpals.com](https://pdfpals.com/)             |
 | <img src='./icons/Proxyman.png' width='60' alt='Proxyman icon'>           | Proxyman      | [proxyman.io](https://proxyman.io/)             |
 | <img src='./icons/Quokka.png' width='60' alt='Quokka icon'>               | Quokka        | [quokkajs.com](https://quokkajs.com/)           |
 | <img src='./icons/Ripcord.png' width='60' alt='Ripcord icon'>             | Ripcord       | [cancel.fm/ripcord](https://cancel.fm/ripcord/) |
