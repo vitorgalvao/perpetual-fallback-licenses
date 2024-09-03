@@ -28,6 +28,7 @@ A perpetual fallback license is midway between those. A customer gets a periodâ€
 | <img src='./icons/Ripcord.png' width='60' alt='Ripcord icon'>             | Ripcord       | [cancel.fm/ripcord](https://cancel.fm/ripcord/) |
 | <img src='./icons/Screen Studio.png' width='60' alt='Screen Studio icon'> | Screen Studio | [screen.studio](https://screen.studio/)         |
 | <img src='./icons/Sip.png' width='60' alt='Sip icon'>                     | Sip           | [sipapp.io](https://sipapp.io/)                 |
+| <img src='./icons/Sketch.png' width='60' alt='Sketch icon'>               | Sketch        | [sketch.com/apps](https://www.sketch.com/apps/) |
 | <img src='./icons/Sublime Merge.png' width='60' alt='Sublime Merge icon'> | Sublime Merge | [sublimemerge.com](https://sublimemerge.com/)   |
 | <img src='./icons/Sublime Text.png' width='60' alt='Sublime Text icon'>   | Sublime Text  | [sublimetext.com](https://sublimetext.com/)     |
 | <img src='./icons/TablePlus.png' width='60' alt='TablePlus icon'>         | TablePlus     | [tableplus.com](https://tableplus.com/)         |
